@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LateBindingApp", "LateBindingApp.csproj", "{11494DE4-EF6F-406E-A1C5-B7D7F8B1413F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11494DE4-EF6F-406E-A1C5-B7D7F8B1413F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11494DE4-EF6F-406E-A1C5-B7D7F8B1413F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11494DE4-EF6F-406E-A1C5-B7D7F8B1413F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11494DE4-EF6F-406E-A1C5-B7D7F8B1413F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096CB4B1-7FA1-49B2-A9F6-E6934AD2B530}
+	EndGlobalSection
+EndGlobal
